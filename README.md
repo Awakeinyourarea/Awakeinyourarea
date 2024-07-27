@@ -41,7 +41,7 @@
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>
 <p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+<a href="#"><img src="./img/empty.svg"/></a> <a href="www.dryad-ro.com"><img src="./img/website.svg"/></a> <a href="https://www.facebook.com/profile.php?id=61550627923863"><img src="./img/facebook.svg"/></a> <a href="https://www.instagram.com/demofxc/"><img src="./img/instragram.svg"/></a> <a href="#"><img src="./img/empty.svg"/></a>
 </p>
 <img src="./img/bg.png" width="100%" align="center" />
 </div>

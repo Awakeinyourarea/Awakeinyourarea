@@ -7,19 +7,15 @@
 <br/>
 <br/>
 
-- Name **Reidho Satria** / **レイドー・サトリア**
+- Name **Awakening // Code Name**
 
-- Live in **South Sumatra, Indonesia**
+- Live in **Bankok, Thailand**
 
-- Studying [**Junior Back-End Developer**](https://dicoding.com)
+- Good with **C++** , **PHP** , and **Python**
 
-- Familiar with **GNU/Linux** and **FreeBSD**
-
-- Good with **JavaScript** , **TypeScript** , **PHP** , **Go** , and **Python**
-
-- Have high experience with **Photoshop** and **CorelDRAW**
+- Have high experience with **Photoshop** and **Ilustrator**
   
-- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
+- Understand **Thai**, and **English**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>

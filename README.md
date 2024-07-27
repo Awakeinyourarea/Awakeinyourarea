@@ -38,7 +38,7 @@
 <img src="./img/banner-elainaa copy.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
 <br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Awakeinyourarea&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>
 <p align='center'>
 <a href="#"><img src="./img/empty.svg"/></a> <a href="www.dryad-ro.com"><img src="./img/website.svg"/></a> <a href="https://www.facebook.com/profile.php?id=61550627923863"><img src="./img/facebook.svg"/></a> <a href="https://www.instagram.com/demofxc/"><img src="./img/instragram.svg"/></a> <a href="#"><img src="./img/empty.svg"/></a>
